@@ -4,8 +4,7 @@ A modern, responsive web application that displays AirBNB listings in San Franci
 
 ## 🚀 Live Demo
 👉 **View Live Site:**  
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/  
-*(Replace with your actual GitHub Pages URL)*
+https://gurudatt007.github.io/airbnb-listings-webpage/
 
 ---
 
